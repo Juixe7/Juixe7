@@ -1,16 +1,21 @@
-## Hi there 👋
+# <h1 align="center">Hi, I'm Avadh 👋</h1>
 
-<!--
-**Juixe7/Juixe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Systems & Full-Stack Engineer</b> • Building high-performance storage engines & scalable cloud architectures.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+
+```cpp
+struct Developer {
+    std::string name = "Avadh Khandelwal";
+    std::vector<std::string> focus = {"Storage Engines", "LSM-Trees", "Distributed Systems"};
+    std::string current_project = "AccretionDB — High-performance key-value store";
+};
