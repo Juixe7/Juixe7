@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm Avadh 👋</h1>
 
 <p align="center">
-  <b>Systems & Full-Stack Engineer</b> • I love building stuff I'm passionate about — from low-level LSM storage engines to scalable web apps in Go, JavaScript, and React.
+   • I love building stuff I'm passionate about — from low-level LSM storage engines to scalable web apps in Go, JavaScript, and React.
 </p>
 
 <p align="center">
